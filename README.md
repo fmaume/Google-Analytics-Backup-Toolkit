@@ -16,4 +16,5 @@ There are few other way to export data from google analtytics:
 
 This repository was made possible thanks to the following companies:
 
-[![image](https://user-images.githubusercontent.com/6319913/189335091-4ed43a58-ead2-49df-895a-cf4ac0e09aa9.png)](https://www.tetriz.io/)
+[![bg logo white](https://user-images.githubusercontent.com/6319913/189340637-c81caf8b-b89c-468c-9d5b-8e1628ddadf8.png)](https://www.tetriz.io/)
+
